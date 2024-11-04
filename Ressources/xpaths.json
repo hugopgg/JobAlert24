@@ -1,0 +1,17 @@
+{
+  "indeed": {
+    "jobNodeXPath": "//li[@class='css-1ac2h1w eu4oa1w0']",
+    "titleXPath": ".//h2",
+    "urlXPath": ".//a[@href]"
+  },
+  "workopolis": {
+    "jobNodeXPath": "//li[@class='css-0']",
+    "titleXPath": ".//h2",
+    "urlXPath": ".//a[@href]"
+  },
+  "jobboom": {
+    "jobNodeXPath": "//div[contains(@class, 'job_item')]",
+    "titleXPath": ".//p[@class='offre']/a",
+    "urlXPath": ".//p[@class='offre']/a/@href"
+  }
+}

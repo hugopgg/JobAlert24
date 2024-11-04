@@ -1,0 +1,57 @@
+[
+  {
+    "Name": "indeed",
+    "Url": "https://emplois.ca.indeed.com/jobs?q=programmeur&l=Montr%C3%A9al%2C+QC&from=searchOnHP&vjk=ff95d6cfe38ac52b",
+    "Job": "programmeur"
+  },
+  {
+    "Name": "indeed",
+    "Url": "https://emplois.ca.indeed.com/jobs?q=d%C3%A9veloppeur&l=Montr%C3%A9al%2C+QC&from=searchOnDesktopSerp&vjk=6d3443e31aba077f",
+    "Job": "développeur"
+  },
+  {
+    "Name": "indeed",
+    "Url": "https://emplois.ca.indeed.com/jobs?q=linux&l=Montr%C3%A9al%2C+QC&from=searchOnDesktopSerp&vjk=54fa8bf49460a7fe",
+    "Job": "linux"
+  },
+  {
+    "Name": "indeed",
+    "Url": "https://emplois.ca.indeed.com/jobs?q=backend&l=Montr%C3%A9al%2C+QC&from=searchOnDesktopSerp&vjk=5826edbda3138b72",
+    "Job": "backend"
+  },
+  {
+    "Name": "indeed",
+    "Url": "https://emplois.ca.indeed.com/jobs?q=web&l=Montr%C3%A9al%2C+QC&from=searchOnDesktopSerp&vjk=a722784ec5c09bd9",
+    "Job": "web"
+  },
+  {
+    "Name": "workopolis",
+    "Url": "https://www.workopolis.com/fr-CA/search?q=programmeur&l=Montreal%2C+QC",
+    "Job": "programmeur"
+  },
+  {
+    "Name": "workopolis",
+    "Url": "https://www.workopolis.com/fr-CA/search?q=d%C3%A9veloppeur&l=Montreal%2C+QC",
+    "Job": "développeur"
+  },
+  {
+    "Name": "workopolis",
+    "Url": "https://www.workopolis.com/fr-CA/search?q=linux&l=Montreal%2C+QC",
+    "Job": "linux"
+  },
+  {
+    "Name": "jobboom",
+    "Url": "https://www.jobboom.com/fr/emploi/programmeur_montreal/_lfrk?dk=programmeur&location=Montr%C3%A9al&geo=45.53583646%2C-73.6334285&geoItem=city&geoItemId=66023",
+    "Job": "programmeur"
+  },
+  {
+    "Name": "jobboom",
+    "Url": "https://www.jobboom.com/fr/emploi/developpeur_montreal/_lfrk?dk=d%C3%A9veloppeur&location=Montr%C3%A9al&geo=45.53583646%2C-73.6334285&geoItem=city&geoItemId=66023",
+    "Job": "développeur"
+  },
+  {
+    "Name": "jobboom",
+    "Url": "https://www.jobboom.com/fr/emploi/linux_montreal/_lfrk?dk=linux&location=Montr%C3%A9al&geo=45.53583646%2C-73.6334285&geoItem=city&geoItemId=66023",
+    "Job": "linux"
+  }
+]
