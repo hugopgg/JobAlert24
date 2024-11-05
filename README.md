@@ -16,32 +16,16 @@ This project is a job alert application developed in C#. It scrapes job postings
 ### Build
 
 ```
-make build
+make 
 ```
 
-### Start the Application
+### Start the Application (*.env must be in root directory)
 
 ```
 make run
 ```
 
-### Daily Scraping
 
-```
-make daily
-```
-
-### Publish the Application
-
-```
-make publish
-```
-
-### Clean Build
-
-```
-make clean
-```
 
 ## Environment Variables
 
