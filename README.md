@@ -56,3 +56,7 @@ TEST_END_USER="recipient_email@gmail.com"
 ```
 
 Make sure to replace the placeholders with your actual SMTP credentials and recipient email address. This information is essential for the email notification feature to work properly.
+
+## Job Sites and XPaths
+
+The application comes pre-configured with example job sites and their corresponding XPaths to facilitate web scraping. These examples are provided for reference and can be modified or replaced according to your requirements. Ensure that the XPaths accurately target the job posting elements on the respective websites for effective scraping.
